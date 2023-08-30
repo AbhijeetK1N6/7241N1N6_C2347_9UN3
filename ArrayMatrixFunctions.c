@@ -75,3 +75,10 @@ int main(){
     }
 }
 //EndOfTheCode
+
+
+
+/*
+MATRIX REVERSAL LOGIC
+b[i][j] = a[2-i][2-j]
+*/
